@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: Mina Belmokhtar
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
-- `contributor-2`: [quotes-wizz-b](url-2)
-- `contributor-3`: [quotes-toto-b](url-3)
+- `contributor-1`: https://github.com/RaphaelAbeille/quotes-abeille-R.git
+- `contributor-2`: https://github.com/zainabbaml/quotes-amalal-R.git
+- `contributor-3`: minaefrei/quotes-Belmokhtar-R (github.com)
