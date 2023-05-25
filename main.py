@@ -17,7 +17,7 @@ def main():
         if choice == "random":
             print_quote(random_quote(quotes))
         elif choice == "display":
-            count = int(input("Enter the number of quotes to display: "))
+            count = input("Enter the number of quotes to display: ")
             display_quotes(quotes, count)
         elif choice == "add":
             add_quote(quotes, "quotes.txt")
